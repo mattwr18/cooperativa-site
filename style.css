@@ -56,16 +56,19 @@ button a {
   display: block;
 }
 
-.logo-img {
+/*.logo-img {
   max-width: 40%;
   margin: 5px;
-}
+  display: flex;
+  justify-content: flex-start;
+
+}*/
 .cooperativa-img {
-  width: 50%;
-  height: 350px;
+  width: 100%;
+/*  height: 350px;
   float: right;
   padding: 20px;
-
+*/
 }
 .outside-div {
   width: 100%;
@@ -85,14 +88,15 @@ button a {
   width:10%;
 }
 .veganeria-img {
-  height: 500px;
-  padding-top: 60px;
+  width: 100%;
+  padding-top: 80px;
 }
 
 .vegao-img {
   width: 100%;
-  padding-bottom: 150px;
+  padding-top: 70px;
 }
 .missmoo-img {
   width: 100%;
+  padding-top: 70px;
 }
