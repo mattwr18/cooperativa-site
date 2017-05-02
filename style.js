@@ -18,3 +18,20 @@ window.onclick = function(element) {
     }
   }
 };
+function scrollToPolitica() {
+    document.getElementById("politica").scrollIntoView();
+};
+function scrollToMissao() {
+    document.getElementById("missao").scrollIntoView();
+};
+function scrollToHistoria() {
+    document.getElementById("historia").scrollIntoView();
+};
+
+    /*window.scrollTo(0,findPos(document.getElementById("missao")));
+    window.scrollTo(0,findPos(document.getElementById("politica")));*/
+
+
+/*location.href="#politica";
+location.href="#missao";
+location.href="#historia";*/
